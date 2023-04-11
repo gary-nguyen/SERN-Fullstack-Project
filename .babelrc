@@ -1,0 +1,3 @@
+{
+    "presets": ["@babel/preset-env"]    //Config compiler so that the Library can work.
+}
